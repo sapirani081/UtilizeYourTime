@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family:Garamond;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:Garamond;
+
+}
+
+.btn{
+  font-size: 18px;
+  border-radius: 0.5ch;
+  background-color: black;
+  color:white;
+  border-color:white;
+  border-width: medium;
+}
+
+.container{
+  text-align: center;
+}

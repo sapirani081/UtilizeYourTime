@@ -1,0 +1,52 @@
+/* .header {
+    height: 5rem;
+    display: flex;
+    padding: 0 10%;
+    justify-content: space-between;
+    align-items: center;
+    background-color:black;
+  } */
+  
+  .nav {
+    background-color: black;
+    /* display: flex; */
+    /* margin-bottom: 10px; */
+    overflow: hidden;
+
+  }
+
+  .logo {
+    color: white;
+    font-weight:bold;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 2em;
+  }
+  
+  .nav ul {
+    list-style: none;
+    display: flex;
+    float: right;
+    align-items: center;
+    margin-right: 1.5em;
+  }
+  
+  .nav li {
+    font-size: 1.2em;
+    padding: 0 1rem;
+  }
+
+  .nav a {
+    color:white;
+    text-decoration: none;
+  }
+
+  .nav a:hover,
+  .nav a:active,
+  .nav a.active {
+    color: black;
+    background-color: floralwhite;
+  }
+  

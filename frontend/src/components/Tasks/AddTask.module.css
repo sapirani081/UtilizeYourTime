@@ -1,0 +1,35 @@
+.dropdown {
+    color: white;
+    background-color: black;
+    border-radius:0.5ch;
+    padding-left: 7px;
+    padding-right: 7px;
+
+    font-size: 18px;
+}
+
+  .container {
+      border-radius: 0.5ch;
+        background-color: #f2f2f2;
+        margin: 3rem auto;
+        max-width: 25rem;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+        padding: 1rem;
+        text-align: center;
+  }
+
+  .container div {
+      margin: 25px;
+  }
+  .container input{
+      color:rgba(0, 0, 0, 0.712);
+      font-size: 18px;
+      padding: 5px;
+      background-color: #f2f2f2;
+      border: white;
+      width: 300px;
+      background: 
+          linear-gradient(#000, #000) center bottom 5px /calc(100% - 10px) 2px no-repeat;
+      
+  }
+  

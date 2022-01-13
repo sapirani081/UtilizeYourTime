@@ -1,0 +1,14 @@
+.headline {
+    text-decoration: underline;
+}
+
+.data {
+    text-decoration: none;
+}
+
+.title {
+    text-decoration: underline orange 3.5px;
+    border-bottom: honeydew;
+
+
+}
